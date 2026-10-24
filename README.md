@@ -2,9 +2,9 @@
 
 A web-based algorithm visualization and empirical performance analysis tool developed for the **Design and Analysis of Algorithms (DAA)** course in **Semester 5, B.Tech Information Technology**.
 
-- **Student Name:** Vishrut Sharma
-- **Enrollment Number:** 12402080601153
-- **Department / Division:** Information Technology (IT-B)
+- **Student Name:** Jainam Gandhi
+- **Enrollment Number:** 12402080601049
+- **Department / Division:** Information Technology (IT-A)
 - **Semester:** V
 - **Link To test the Project:**https://algofind.vercel.app/
 
@@ -196,9 +196,9 @@ http://localhost:8080
 
 ## Student and Academic Information
 
-- **Student Name:** Vishrut Sharma
-- **Enrollment Number:** 12402080601153
-- **Department / Division:** Information Technology (IT-B)
+- **Student Name:** Jainam Gandhi
+- **Enrollment Number:** 12402080601049
+- **Department / Division:** Information Technology (IT-A)
 - **Programme:** Bachelor of Technology (Information Technology)
 - **Semester:** Semester 5
 - **Course Title:** Design and Analysis of Algorithms (DAA)
